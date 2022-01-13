@@ -8,4 +8,4 @@
   - Deepin OS
   - LinuxMint
   - **Any Operating System That Supports**
-         ./"FILE NAME"
+        - ./"FILE NAME"
