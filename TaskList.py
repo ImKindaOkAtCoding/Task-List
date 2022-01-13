@@ -15,7 +15,7 @@ if addanything == "yes":
         print("How Many:",timeunit,)
         howmanytimeunit = input(": ")
         print("Here Is Your Current Task List")
-        print("Task:",whatisit,": Time:",howmanytimeunit,timeunit)
+        print("Task:",whatisit,": Time:",howmanytimeunit,timeunit)    
     
     else:
         print("Here Is Your Current Task List:")
