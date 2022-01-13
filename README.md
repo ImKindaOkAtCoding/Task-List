@@ -7,5 +7,5 @@
   - Cutefish OS
   - Deepin OS
   - LinuxMint
-  - Any Operating System That Supports
+  - **Any Operating System That Supports**
          ./"FILE NAME"
